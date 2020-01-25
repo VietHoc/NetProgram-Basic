@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{C1BA0B3B-19E8-4E50-9B97-D5BFBA3A3247}|Default">
   <MonoDevelop.Ide.ItemProperties.Bai3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Bai3/Properties/PrimeTool.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bai3/Program.cs">
     <Files>
-      <File FileName="Bai3/Program.cs" Line="25" Column="44" />
-      <File FileName="Bai3/Properties/PrimeTool.cs" Line="11" Column="1" />
+      <File FileName="Bai3/Program.cs" Line="30" Column="21" />
+      <File FileName="Bai3/Properties/PrimeTool.cs" Line="14" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
