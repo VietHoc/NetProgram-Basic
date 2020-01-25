@@ -1,0 +1,5 @@
+/Users/viethoc/code/learn/c#/NetProgram-Basic/Bai4/Bai4/bin/Debug/Bai4.exe
+/Users/viethoc/code/learn/c#/NetProgram-Basic/Bai4/Bai4/bin/Debug/Bai4.pdb
+/Users/viethoc/code/learn/c#/NetProgram-Basic/Bai4/Bai4/obj/Debug/Bai4.csprojAssemblyReference.cache
+/Users/viethoc/code/learn/c#/NetProgram-Basic/Bai4/Bai4/obj/Debug/Bai4.exe
+/Users/viethoc/code/learn/c#/NetProgram-Basic/Bai4/Bai4/obj/Debug/Bai4.pdb
