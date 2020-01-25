@@ -1,0 +1,5 @@
+/Users/viethoc/code/learn/c#/NetProgram-Basic/Bai2/Bai2/bin/Debug/Bai2.exe
+/Users/viethoc/code/learn/c#/NetProgram-Basic/Bai2/Bai2/bin/Debug/Bai2.pdb
+/Users/viethoc/code/learn/c#/NetProgram-Basic/Bai2/Bai2/obj/Debug/Bai2.csprojAssemblyReference.cache
+/Users/viethoc/code/learn/c#/NetProgram-Basic/Bai2/Bai2/obj/Debug/Bai2.exe
+/Users/viethoc/code/learn/c#/NetProgram-Basic/Bai2/Bai2/obj/Debug/Bai2.pdb
