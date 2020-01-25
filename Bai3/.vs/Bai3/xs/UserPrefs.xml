@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C1BA0B3B-19E8-4E50-9B97-D5BFBA3A3247}|Default">
+  <MonoDevelop.Ide.ItemProperties.Bai3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bai3/Properties/PrimeTool.cs">
+    <Files>
+      <File FileName="Bai3/Program.cs" Line="25" Column="44" />
+      <File FileName="Bai3/Properties/PrimeTool.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bai3" expanded="True">
+            <Node name="Bai3" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="PrimeTool.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

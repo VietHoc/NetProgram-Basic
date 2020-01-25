@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3", "Bai3\Bai3.csproj", "{C1BA0B3B-19E8-4E50-9B97-D5BFBA3A3247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1BA0B3B-19E8-4E50-9B97-D5BFBA3A3247}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C1BA0B3B-19E8-4E50-9B97-D5BFBA3A3247}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C1BA0B3B-19E8-4E50-9B97-D5BFBA3A3247}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C1BA0B3B-19E8-4E50-9B97-D5BFBA3A3247}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
